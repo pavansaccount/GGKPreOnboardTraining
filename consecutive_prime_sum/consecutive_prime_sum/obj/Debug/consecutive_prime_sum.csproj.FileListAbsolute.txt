@@ -1,0 +1,14 @@
+C:\Users\paone\AppData\Local\Temporary Projects\consecutive_prime_sum\bin\Debug\consecutive_prime_sum.exe.config
+C:\Users\paone\AppData\Local\Temporary Projects\consecutive_prime_sum\bin\Debug\consecutive_prime_sum.exe
+C:\Users\paone\AppData\Local\Temporary Projects\consecutive_prime_sum\bin\Debug\consecutive_prime_sum.pdb
+C:\Users\paone\AppData\Local\Temporary Projects\consecutive_prime_sum\obj\Debug\consecutive_prime_sum.csprojAssemblyReference.cache
+C:\Users\paone\AppData\Local\Temporary Projects\consecutive_prime_sum\obj\Debug\consecutive_prime_sum.csproj.CoreCompileInputs.cache
+C:\Users\paone\AppData\Local\Temporary Projects\consecutive_prime_sum\obj\Debug\consecutive_prime_sum.exe
+C:\Users\paone\AppData\Local\Temporary Projects\consecutive_prime_sum\obj\Debug\consecutive_prime_sum.pdb
+C:\Users\paone\source\repos\consecutive_prime_sum\consecutive_prime_sum\bin\Debug\consecutive_prime_sum.exe.config
+C:\Users\paone\source\repos\consecutive_prime_sum\consecutive_prime_sum\bin\Debug\consecutive_prime_sum.exe
+C:\Users\paone\source\repos\consecutive_prime_sum\consecutive_prime_sum\bin\Debug\consecutive_prime_sum.pdb
+C:\Users\paone\source\repos\consecutive_prime_sum\consecutive_prime_sum\obj\Debug\consecutive_prime_sum.csprojAssemblyReference.cache
+C:\Users\paone\source\repos\consecutive_prime_sum\consecutive_prime_sum\obj\Debug\consecutive_prime_sum.csproj.CoreCompileInputs.cache
+C:\Users\paone\source\repos\consecutive_prime_sum\consecutive_prime_sum\obj\Debug\consecutive_prime_sum.exe
+C:\Users\paone\source\repos\consecutive_prime_sum\consecutive_prime_sum\obj\Debug\consecutive_prime_sum.pdb

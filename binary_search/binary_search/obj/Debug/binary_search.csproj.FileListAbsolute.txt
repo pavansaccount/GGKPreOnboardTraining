@@ -1,0 +1,7 @@
+C:\Users\paone\source\repos\binary_search\binary_search\bin\Debug\binary_search.exe.config
+C:\Users\paone\source\repos\binary_search\binary_search\bin\Debug\binary_search.exe
+C:\Users\paone\source\repos\binary_search\binary_search\bin\Debug\binary_search.pdb
+C:\Users\paone\source\repos\binary_search\binary_search\obj\Debug\binary_search.csprojAssemblyReference.cache
+C:\Users\paone\source\repos\binary_search\binary_search\obj\Debug\binary_search.csproj.CoreCompileInputs.cache
+C:\Users\paone\source\repos\binary_search\binary_search\obj\Debug\binary_search.exe
+C:\Users\paone\source\repos\binary_search\binary_search\obj\Debug\binary_search.pdb

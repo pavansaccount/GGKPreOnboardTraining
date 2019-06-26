@@ -1,0 +1,14 @@
+C:\Users\paone\AppData\Local\Temporary Projects\shortest_path\obj\Debug\shortest_path.csprojAssemblyReference.cache
+C:\Users\paone\AppData\Local\Temporary Projects\shortest_path\obj\Debug\shortest_path.csproj.CoreCompileInputs.cache
+C:\Users\paone\AppData\Local\Temporary Projects\shortest_path\bin\Debug\shortest_path.exe.config
+C:\Users\paone\AppData\Local\Temporary Projects\shortest_path\bin\Debug\shortest_path.exe
+C:\Users\paone\AppData\Local\Temporary Projects\shortest_path\bin\Debug\shortest_path.pdb
+C:\Users\paone\AppData\Local\Temporary Projects\shortest_path\obj\Debug\shortest_path.exe
+C:\Users\paone\AppData\Local\Temporary Projects\shortest_path\obj\Debug\shortest_path.pdb
+C:\Users\paone\source\repos\shortest_path\shortest_path\bin\Debug\shortest_path.exe.config
+C:\Users\paone\source\repos\shortest_path\shortest_path\bin\Debug\shortest_path.exe
+C:\Users\paone\source\repos\shortest_path\shortest_path\bin\Debug\shortest_path.pdb
+C:\Users\paone\source\repos\shortest_path\shortest_path\obj\Debug\shortest_path.csprojAssemblyReference.cache
+C:\Users\paone\source\repos\shortest_path\shortest_path\obj\Debug\shortest_path.csproj.CoreCompileInputs.cache
+C:\Users\paone\source\repos\shortest_path\shortest_path\obj\Debug\shortest_path.exe
+C:\Users\paone\source\repos\shortest_path\shortest_path\obj\Debug\shortest_path.pdb
