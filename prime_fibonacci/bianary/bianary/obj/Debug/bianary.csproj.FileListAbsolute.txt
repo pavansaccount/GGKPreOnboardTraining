@@ -1,0 +1,7 @@
+C:\Users\vineel kumar\source\repos\bianary\bianary\bin\Debug\bianary.exe.config
+C:\Users\vineel kumar\source\repos\bianary\bianary\bin\Debug\bianary.exe
+C:\Users\vineel kumar\source\repos\bianary\bianary\bin\Debug\bianary.pdb
+C:\Users\vineel kumar\source\repos\bianary\bianary\obj\Debug\bianary.csprojAssemblyReference.cache
+C:\Users\vineel kumar\source\repos\bianary\bianary\obj\Debug\bianary.csproj.CoreCompileInputs.cache
+C:\Users\vineel kumar\source\repos\bianary\bianary\obj\Debug\bianary.exe
+C:\Users\vineel kumar\source\repos\bianary\bianary\obj\Debug\bianary.pdb

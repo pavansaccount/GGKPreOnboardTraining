@@ -1,0 +1,7 @@
+C:\Users\vineel kumar\source\repos\Float_multiplication\Float_multiplication\bin\Debug\Float_multiplication.exe.config
+C:\Users\vineel kumar\source\repos\Float_multiplication\Float_multiplication\bin\Debug\Float_multiplication.exe
+C:\Users\vineel kumar\source\repos\Float_multiplication\Float_multiplication\bin\Debug\Float_multiplication.pdb
+C:\Users\vineel kumar\source\repos\Float_multiplication\Float_multiplication\obj\Debug\Float_multiplication.csprojAssemblyReference.cache
+C:\Users\vineel kumar\source\repos\Float_multiplication\Float_multiplication\obj\Debug\Float_multiplication.csproj.CoreCompileInputs.cache
+C:\Users\vineel kumar\source\repos\Float_multiplication\Float_multiplication\obj\Debug\Float_multiplication.exe
+C:\Users\vineel kumar\source\repos\Float_multiplication\Float_multiplication\obj\Debug\Float_multiplication.pdb

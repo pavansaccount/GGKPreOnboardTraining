@@ -1,0 +1,7 @@
+C:\Users\vineel kumar\source\repos\Consecutive_prime _sum\Consecutive_prime _sum\bin\Debug\Consecutive_prime _sum.exe.config
+C:\Users\vineel kumar\source\repos\Consecutive_prime _sum\Consecutive_prime _sum\bin\Debug\Consecutive_prime _sum.exe
+C:\Users\vineel kumar\source\repos\Consecutive_prime _sum\Consecutive_prime _sum\bin\Debug\Consecutive_prime _sum.pdb
+C:\Users\vineel kumar\source\repos\Consecutive_prime _sum\Consecutive_prime _sum\obj\Debug\Consecutive_prime _sum.csprojAssemblyReference.cache
+C:\Users\vineel kumar\source\repos\Consecutive_prime _sum\Consecutive_prime _sum\obj\Debug\Consecutive_prime _sum.csproj.CoreCompileInputs.cache
+C:\Users\vineel kumar\source\repos\Consecutive_prime _sum\Consecutive_prime _sum\obj\Debug\Consecutive_prime _sum.exe
+C:\Users\vineel kumar\source\repos\Consecutive_prime _sum\Consecutive_prime _sum\obj\Debug\Consecutive_prime _sum.pdb

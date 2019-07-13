@@ -1,0 +1,7 @@
+C:\Users\vineel kumar\source\repos\bst\bst\bin\Debug\bst.exe.config
+C:\Users\vineel kumar\source\repos\bst\bst\bin\Debug\bst.exe
+C:\Users\vineel kumar\source\repos\bst\bst\bin\Debug\bst.pdb
+C:\Users\vineel kumar\source\repos\bst\bst\obj\Debug\bst.csprojAssemblyReference.cache
+C:\Users\vineel kumar\source\repos\bst\bst\obj\Debug\bst.csproj.CoreCompileInputs.cache
+C:\Users\vineel kumar\source\repos\bst\bst\obj\Debug\bst.exe
+C:\Users\vineel kumar\source\repos\bst\bst\obj\Debug\bst.pdb

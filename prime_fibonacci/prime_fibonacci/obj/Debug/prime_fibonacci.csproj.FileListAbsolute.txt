@@ -1,0 +1,7 @@
+C:\Users\vineel kumar\source\repos\prime_fibonacci\prime_fibonacci\bin\Debug\prime_fibonacci.exe.config
+C:\Users\vineel kumar\source\repos\prime_fibonacci\prime_fibonacci\bin\Debug\prime_fibonacci.exe
+C:\Users\vineel kumar\source\repos\prime_fibonacci\prime_fibonacci\bin\Debug\prime_fibonacci.pdb
+C:\Users\vineel kumar\source\repos\prime_fibonacci\prime_fibonacci\obj\Debug\prime_fibonacci.csprojAssemblyReference.cache
+C:\Users\vineel kumar\source\repos\prime_fibonacci\prime_fibonacci\obj\Debug\prime_fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\vineel kumar\source\repos\prime_fibonacci\prime_fibonacci\obj\Debug\prime_fibonacci.exe
+C:\Users\vineel kumar\source\repos\prime_fibonacci\prime_fibonacci\obj\Debug\prime_fibonacci.pdb

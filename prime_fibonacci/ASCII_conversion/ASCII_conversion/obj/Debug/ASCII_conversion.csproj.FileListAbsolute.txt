@@ -1,0 +1,7 @@
+C:\Users\vineel kumar\source\repos\ASCII_conversion\ASCII_conversion\bin\Debug\ASCII_conversion.exe.config
+C:\Users\vineel kumar\source\repos\ASCII_conversion\ASCII_conversion\bin\Debug\ASCII_conversion.exe
+C:\Users\vineel kumar\source\repos\ASCII_conversion\ASCII_conversion\bin\Debug\ASCII_conversion.pdb
+C:\Users\vineel kumar\source\repos\ASCII_conversion\ASCII_conversion\obj\Debug\ASCII_conversion.csprojAssemblyReference.cache
+C:\Users\vineel kumar\source\repos\ASCII_conversion\ASCII_conversion\obj\Debug\ASCII_conversion.csproj.CoreCompileInputs.cache
+C:\Users\vineel kumar\source\repos\ASCII_conversion\ASCII_conversion\obj\Debug\ASCII_conversion.exe
+C:\Users\vineel kumar\source\repos\ASCII_conversion\ASCII_conversion\obj\Debug\ASCII_conversion.pdb
